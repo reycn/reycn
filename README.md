@@ -1,4 +1,4 @@
-Hi, I am a **graduate student**, a **product designer** and a **productivity enthusiast**.
+Hi, I am a graduate student, a product designer and a productivity enthusiast.
 
 **Language**: Chinese, English, and some basic Spanish  
 **Programming**: Python, Javascript(Vue.js), php  
