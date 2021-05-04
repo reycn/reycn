@@ -1,7 +1,7 @@
 Hi, I am a graduate student, a product designer and a productivity enthusiast.
 
 **Language**: Chinese, English, and some basic Spanish  
-**Programming**: Python, Javascript(Vue.js), php  
+**Programming**: Python, JavaScript(Vue.js), php  
 
 <a href="https://github.com/reycn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reycn&hide=contribs&line_height=24&include_all_commits=true&hide_title=true&count_private=true&show_icons=true&theme=graywhite" />
