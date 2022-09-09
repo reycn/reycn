@@ -1,4 +1,4 @@
-**Programming**: Python, R, Vue.js
+**Programming**: Python, R, Vue.js  
 **Language**: native Chinese, and proficient English
 
 <a href="https://github.com/reycn">
