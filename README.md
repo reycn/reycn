@@ -1,5 +1,5 @@
 **Looking for a Communication PhD vacancy.**  
-**[> CV at my blog](https://blog.quoth.win/about)**
+**[> CV on my blog](https://blog.quoth.win/about)**
 
 **Programming**: Python, R, Vue.js  
 **Language**: native Chinese, and proficient English
