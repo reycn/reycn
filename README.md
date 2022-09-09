@@ -1,13 +1,6 @@
-Hi, I am a product / productivity enthusiast.
-
-**Language**: Chinese, English, and some basic Spanish  
-**Programming**: Python, JavaScript(Vue.js), php  
+**Programming**: Python, R, Vue.js
+**Language**: native Chinese, and proficient English
 
 <a href="https://github.com/reycn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reycn&hide=contribs&line_height=24&include_all_commits=true&hide_title=true&count_private=true&show_icons=true&theme=graywhite" />
 </a>
-
-<a href="https://github.com/reycn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reycn&hide=PLpgSQL,html,css&show_icons=true&layout=compact&hide_title=true&theme=graywhite" />
-</a>  
-  
