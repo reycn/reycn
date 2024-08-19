@@ -3,9 +3,9 @@
 
 <a href="https://github.com/reycn">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reycn&hide=contribs&line_height=24&include_all_commits=true&hide_title=true&count_private=true&show_icons=true&theme=graywhite" />
-</a>
+</a>  
 <a href="https://github.com/reycn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reycn&line_height=24&hide_title=true&show_icons=true&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reycn&line_height=24&hide_title=false&show_icons=true&theme=graywhite" />
 </a>
 
 
